@@ -1,5 +1,5 @@
 <h1 align="center">
-  💜 Hi, I'm <span style="color:#b366ff;">ShenaXyz</span> 💜
+   Hi, I'm <span style="color:#b366ff;">ShenaXyz</span> 
 </h1>
 
 <p align="center">
