@@ -1,5 +1,3 @@
-<!-- Profil GitHub README -->
-
 <h1 align="center">
   💜 Hi, I'm <span style="color:#b366ff;">ShenaXyz</span> 💜
 </h1>
@@ -13,14 +11,14 @@
 
 ### 🌌 About Me
 - 🔮 **Creative Coder & Bot Developer**  
-- 💜 Passionate in **JavaScript • Node.js • APIs**  
+- 💜 Passionate in **JavaScript • HTML • CSS • Python**  
 - 🎨 Loves to mix **clean code** & **aesthetic design**
 
 ---
 
-### 🔧 Tech & Tools
+### 🛠️ Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,typescript,html,css,react,github,mongodb,vscode&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=javascript,html,css,python&theme=dark&perline=4" />
 </p>
 
 ---
