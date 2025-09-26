@@ -4,7 +4,7 @@
 
 <p align="center">
   <!-- Ganti URL di bawah dengan foto/avatarmu -->
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="200" style="border-radius:50%; border:4px solid #b366ff;" alt="ShenaXyz Avatar"/>
+  <img src="https://files.catbox.moe/kwwmch.jpg" width="200" style="border-radius:50%; border:4px solid #b366ff;" alt="ShenaXyz Avatar"/>
 </p>
 
 ---
