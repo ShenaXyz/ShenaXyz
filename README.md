@@ -1,5 +1,5 @@
 <h1 align="center">
-   Hi, I'm <span style="color:#b366ff;">ShenaXyz</span> 
+   Hi, I'm <span style="color:#b366ff;">Shenz XD</span> 
 </h1>
 
 <p align="center">
@@ -39,7 +39,7 @@
   <a href="https://t.me/ShenaXyz">
     <img src="https://img.shields.io/badge/Telegram-8a2be2?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
-  <a href="mailto:shena.xyz@example.com">
+  <a href="mailto:shenzxyz666@gmail.com">
     <img src="https://img.shields.io/badge/Email-b366ff?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
